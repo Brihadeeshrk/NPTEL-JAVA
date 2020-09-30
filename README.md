@@ -8,4 +8,6 @@ Solutions to the Week1 - Week12 Java Assignments
 
 [Week 1: Question 2](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program1_2.java) To find the largest among three numbers x, y, and z.
 
-[Week 1: Question 3]() Consider First n even numbers starting from zero(0) and calculate sum of all the numbers divisible by 3 from 0 to n. Print the sum.
+[Week 1: Question 3](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program1_3.java) Consider First n even numbers starting from zero(0) and calculate sum of all the numbers divisible by 3 from 0 to n. Print the sum.
+
+[Week 1: Question 4]() To check whether the number is an Armstrong number or not.
