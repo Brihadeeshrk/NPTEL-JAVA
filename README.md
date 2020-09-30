@@ -4,4 +4,5 @@ Solutions to the Week1 - Week12 Java Assignments
 
 ### Assignment Outline:
 #### Week 1
-[Week 1: Question 1]() To find the perimeter and area of a circle given a value of radius.
+[Week 1: Question 1](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program1_1.java) To find the perimeter and area of a circle given a value of radius.
+[Week 1: Question 2]() To find the largest among three numbers x, y, and z.
