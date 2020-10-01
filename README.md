@@ -1,4 +1,4 @@
-# NPTEL-JAVA
+# [NPTEL Programming in Java](https://github.com/Brihadeeshrk/NPTEL-JAVA)
 Solutions to the Week1 - Week12 Java Assignments
 ### USN: 1MS19IS030
 
