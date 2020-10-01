@@ -16,7 +16,7 @@ Solutions to the Week1 - Week12 Java Assignments
 
 ---
 
-### Week 2
+#### Week 2
 [Week 2: Question 1](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program2_1.java) To call the method print() in class Student following the concept of inner class.
 
 [Week 2: Question 2](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program2_2.java) Complete the code segment to call the method  print() of class given class Printer to print the following.
