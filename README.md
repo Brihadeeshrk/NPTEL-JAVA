@@ -15,3 +15,14 @@ Solutions to the Week1 - Week12 Java Assignments
 [Week 1: Question 5](https://github.com/Brihadeeshrk/NPTEL-JAVA/blob/master/Program1_5.java)  Complete the code segment to find the highest mark and average mark secured by Hari in "s" number of subjects. 
 
 ---
+
+### Week 2
+[Week 2: Question 1]() To call the method print() in class Student following the concept of inner class.
+
+[Week 2: Question 2]() Complete the code segment to call the method  print() of class given class Printer to print the following.
+--------------------------------
+Hi! I am class STUDENT
+Hi! I class SCHOOL.
+--------------------------------
+
+[]()
